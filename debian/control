@@ -26,7 +26,7 @@ Vcs-Browser: https://salsa.debian.org/qt-kde-team/qt6/qt6-5compat
 Vcs-Git: https://salsa.debian.org/qt-kde-team/qt6/qt6-5compat.git
 Rules-Requires-Root: no
 
-Package: libqt6core5compat
+Package: libqt6core5compat6
 Architecture: any
 Multi-Arch: same
 Depends: ${misc:Depends}, ${shlibs:Depends}
@@ -48,11 +48,11 @@ Description: Qt 6 Core5Compat QML module
  .
  This package contains the Qt Core5Compat QML module.
 
-Package: libqt6core5compat-dev
+Package: libqt6core5compat6-dev
 Architecture: any
 Multi-Arch: same
 Section: libdevel
-Depends: libqt6core5compat (= ${binary:Version}),
+Depends: libqt6core5compat6 (= ${binary:Version}),
          qt6-base-dev,
          ${misc:Depends},
 Description: Qt 6 Core5Compat - development files
