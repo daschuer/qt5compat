@@ -37,7 +37,7 @@ Description: Qt 6 Core5Compat library
  .
  This package contains the Qt 6 Core5Compat library.
 
-Package: qml6-module-qt5compat
+Package: qml6-module-qt5compat-graphicaleffects
 Architecture: any
 Multi-Arch: same
 Pre-Depends: ${misc:Pre-Depends}
