@@ -31,7 +31,7 @@ Architecture: any
 Multi-Arch: same
 Depends: ${misc:Depends}, ${shlibs:Depends}
 Pre-Depends: ${misc:Pre-Depends}
-Description: Qt 6 Core5Compat library
+Description: Qt 6 Qt5Compat library
  Qt is a cross-platform C++ application framework. Qt's primary feature
  is its rich set of widgets that provide standard GUI functionality.
  .
@@ -42,7 +42,7 @@ Architecture: any
 Multi-Arch: same
 Pre-Depends: ${misc:Pre-Depends}
 Depends: ${misc:Depends}, ${shlibs:Depends}
-Description: Qt 6 Core5Compat QML module
+Description: Qt 6 Qt5Compat QML module
  Qt is a cross-platform C++ application framework. Qt's primary feature
  is its rich set of widgets that provide standard GUI functionality.
  .
@@ -55,7 +55,7 @@ Section: libdevel
 Depends: libqt6core5compat6 (= ${binary:Version}),
          qt6-base-dev,
          ${misc:Depends},
-Description: Qt 6 Core5Compat - development files
+Description: Qt 6 Qt5Compat - development files
  Qt is a cross-platform C++ application framework. Qt's primary feature
  is its rich set of widgets that provide standard GUI functionality.
  .
