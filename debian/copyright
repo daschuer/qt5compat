@@ -39,6 +39,7 @@ Copyright: 2016-2020 The Qt Company Ltd
 License: BSD-3-clause
 
 Files: examples/*
+       src/imports/graphicaleffects5/shaders_ng/compile.bat
        tests/manual/graphicaleffects5/*
 Copyright: 2016-2020 The Qt Company Ltd.
 License: BSD-3-clause
