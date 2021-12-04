@@ -3,6 +3,7 @@ qt6-5compat (6.2.2-1) UNRELEASED; urgency=medium
   [ Patrick Franz ]
   * New upstream release (6.2.2).
   * Bump Qt B-Ds to 6.2.2.
+  * Update installed files.
 
  -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sat, 04 Dec 2021 07:58:07 +0100
 

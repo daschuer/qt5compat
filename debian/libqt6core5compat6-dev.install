@@ -41,6 +41,7 @@ usr/lib/${DEB_HOST_MULTIARCH}/cmake/Qt6BuildInternals/StandaloneTests/Qt5CompatT
 usr/lib/${DEB_HOST_MULTIARCH}/cmake/Qt6Core5Compat/Qt6Core5CompatAdditionalTargetInfo.cmake
 usr/lib/${DEB_HOST_MULTIARCH}/cmake/Qt6Core5Compat/Qt6Core5CompatConfig.cmake
 usr/lib/${DEB_HOST_MULTIARCH}/cmake/Qt6Core5Compat/Qt6Core5CompatConfigVersion.cmake
+usr/lib/${DEB_HOST_MULTIARCH}/cmake/Qt6Core5Compat/Qt6Core5CompatConfigVersionImpl.cmake
 usr/lib/${DEB_HOST_MULTIARCH}/cmake/Qt6Core5Compat/Qt6Core5CompatDependencies.cmake
 usr/lib/${DEB_HOST_MULTIARCH}/cmake/Qt6Core5Compat/Qt6Core5CompatTargets-none.cmake
 usr/lib/${DEB_HOST_MULTIARCH}/cmake/Qt6Core5Compat/Qt6Core5CompatTargets.cmake
