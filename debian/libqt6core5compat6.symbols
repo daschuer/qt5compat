@@ -1,11 +1,11 @@
-# SymbolsHelper-Confirmed: 6.2.1 amd64
+# SymbolsHelper-Confirmed: 6.2.2 armel armhf i386
 libQt6Core5Compat.so.6 libqt6core5compat6 #MINVER#
 * Build-Depends-Package: libqt6core5compat6-dev
  _Z21qt_regexp_toCanonicalRK7QStringN7QRegExp13PatternSyntaxE@Base 6.2.1
- _Z5qHashRK7QRegExpm@Base 6.2.1
- _ZN10QStringRef14compare_helperEPK5QCharx13QLatin1StringN2Qt15CaseSensitivityE@Base 6.2.1
- _ZN10QStringRef14compare_helperEPK5QCharxPKcxN2Qt15CaseSensitivityE@Base 6.2.1
- _ZN10QStringRef14compare_helperEPK5QCharxS2_xN2Qt15CaseSensitivityE@Base 6.2.1
+ (subst)_Z5qHashRK7QRegExp{size_t}@Base 6.2.1
+ (subst)_ZN10QStringRef14compare_helperEPK5QChar{qptrdiff}13QLatin1StringN2Qt15CaseSensitivityE@Base 6.2.1
+ (subst)_ZN10QStringRef14compare_helperEPK5QChar{qptrdiff}PKc{qptrdiff}N2Qt15CaseSensitivityE@Base 6.2.1
+ (subst)_ZN10QStringRef14compare_helperEPK5QChar{qptrdiff}S2_{qptrdiff}N2Qt15CaseSensitivityE@Base 6.2.1
  _ZN10QTextCodec11codecForMibEi@Base 6.2.1
  _ZN10QTextCodec12codecForHtmlERK10QByteArray@Base 6.2.1
  _ZN10QTextCodec12codecForHtmlERK10QByteArrayPS_@Base 6.2.1
@@ -281,9 +281,8 @@ libQt6Core5Compat.so.6 libqt6core5compat6 #MINVER#
  _ZNK7QRegExpcv8QVariantEv@Base 6.2.1
  _ZNK7QRegExpeqERKS_@Base 6.2.1
  (optional=templinst)_ZNKSt8_Rb_treeI7QStringSt4pairIKS0_S0_ESt10_Select1stIS3_ESt4lessIS0_ESaIS3_EE4findERS2_@Base 6.2.1
- (optional=templinst)_ZNSt8_Rb_treeI7QStringSt4pairIKS0_S0_ESt10_Select1stIS3_ESt4lessIS0_ESaIS3_EE16_M_insert_uniqueIS3_EES1_ISt17_Rb_tree_iteratorIS3_EbEOT_@Base 6.2.1
+ (optional=templinst|arch=i386)_ZNSt8_Rb_treeI7QStringSt4pairIKS0_S0_ESt10_Select1stIS3_ESt4lessIS0_ESaIS3_EE16_M_insert_uniqueIS3_EES1_ISt17_Rb_tree_iteratorIS3_EbEOT_@Base 6.2.1
  (optional=templinst)_ZNSt8_Rb_treeI7QStringSt4pairIKS0_S0_ESt10_Select1stIS3_ESt4lessIS0_ESaIS3_EE24_M_get_insert_unique_posERS2_@Base 6.2.1
- (optional=templinst)_ZNSt8_Rb_treeI7QStringSt4pairIKS0_S0_ESt10_Select1stIS3_ESt4lessIS0_ESaIS3_EE29_M_get_insert_hint_unique_posESt23_Rb_tree_const_iteratorIS3_ERS2_@Base 6.2.1
  (optional=templinst)_ZNSt8_Rb_treeI7QStringSt4pairIKS0_S0_ESt10_Select1stIS3_ESt4lessIS0_ESaIS3_EE4findERS2_@Base 6.2.1
  (optional=templinst)_ZNSt8_Rb_treeIiSt4pairIKiiESt10_Select1stIS2_ESt4lessIiESaIS2_EE24_M_get_insert_unique_posERS1_@Base 6.2.1
  (optional=templinst)_ZNSt8_Rb_treeIiSt4pairIKiiESt10_Select1stIS2_ESt4lessIiESaIS2_EE29_M_get_insert_hint_unique_posESt23_Rb_tree_const_iteratorIS2_ERS1_@Base 6.2.1
