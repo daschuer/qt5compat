@@ -1,0 +1,17 @@
+usr/include/${DEB_HOST_MULTIARCH}/qt6/QtCore5Compat/6.*
+usr/lib/${DEB_HOST_MULTIARCH}/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphicaleffectspluginAdditionalTargetInfo.cmake
+usr/lib/${DEB_HOST_MULTIARCH}/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphicaleffectspluginConfig.cmake
+usr/lib/${DEB_HOST_MULTIARCH}/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphicaleffectspluginConfigVersion.cmake
+usr/lib/${DEB_HOST_MULTIARCH}/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphicaleffectspluginConfigVersionImpl.cmake
+usr/lib/${DEB_HOST_MULTIARCH}/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphicaleffectspluginTargets-none.cmake
+usr/lib/${DEB_HOST_MULTIARCH}/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphicaleffectspluginTargets.cmake
+usr/lib/${DEB_HOST_MULTIARCH}/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphicaleffectsprivateAdditionalTargetInfo.cmake
+usr/lib/${DEB_HOST_MULTIARCH}/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphicaleffectsprivateConfig.cmake
+usr/lib/${DEB_HOST_MULTIARCH}/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphicaleffectsprivateConfigVersion.cmake
+usr/lib/${DEB_HOST_MULTIARCH}/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphicaleffectsprivateConfigVersionImpl.cmake
+usr/lib/${DEB_HOST_MULTIARCH}/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphicaleffectsprivateTargets-none.cmake
+usr/lib/${DEB_HOST_MULTIARCH}/cmake/Qt6Qml/QmlPlugins/Qt6qtgraphicaleffectsprivateTargets.cmake
+usr/lib/${DEB_HOST_MULTIARCH}/qt6/mkspecs/modules/qt_lib_core5compat_private.pri
+usr/lib/${DEB_HOST_MULTIARCH}/qt6/qml/Qt5Compat/GraphicalEffects/private/FastGlow.qml
+usr/lib/${DEB_HOST_MULTIARCH}/qt6/qml/Qt5Compat/GraphicalEffects/private/libqtgraphicaleffectsprivateplugin.so
+usr/lib/${DEB_HOST_MULTIARCH}/qt6/qml/Qt5Compat/GraphicalEffects/private/qmldir
